@@ -2,7 +2,8 @@
 
 ### Hello! Nice to see you.
 
-I'm Zane, Cyber Vagabond.
+I'm Zane.
+Cyber Vagabond.
 
 #### Things I play with
 |
