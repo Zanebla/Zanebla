@@ -1,8 +1,8 @@
-> <img src="./assets/kirby.gif" width="25" height="25"> " A king is one who arises from the end and brings about the beginning."
+> <img src="./assets/kirby.gif" width="25" height="25"> "Just Code"
 
 ### Hello! Nice to see you.
 
-I'm Zane, Fullstack developer from China 🇨🇳.
+I'm Zane, Cyber Vagabond.
 
 #### Things I play with
 |
